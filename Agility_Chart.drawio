@@ -1,0 +1,92 @@
+<mxfile host="app.diagrams.net" modified="2023-04-19T20:52:32.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="nZOVEEUqbZUBqYQ0XFKr" version="21.2.1" type="device">
+  <diagram name="Page-1" id="YJYJUsx0cJ9c_DmPhmuN">
+    <mxGraphModel dx="674" dy="3323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8usbnj4gd5BH2UXzQ24F-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8usbnj4gd5BH2UXzQ24F-1" target="8usbnj4gd5BH2UXzQ24F-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8usbnj4gd5BH2UXzQ24F-1" value="Start Program" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="80" y="-2190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jpVaalJFUSlHE47DqnqX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8usbnj4gd5BH2UXzQ24F-2" target="jpVaalJFUSlHE47DqnqX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8usbnj4gd5BH2UXzQ24F-2" value="roll 0 degrees at 42 speed for 2.3 seconds" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="-2100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jpVaalJFUSlHE47DqnqX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8usbnj4gd5BH2UXzQ24F-3" target="jpVaalJFUSlHE47DqnqX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8usbnj4gd5BH2UXzQ24F-3" value="roll 0 degrees at 45 speed for 2.3 seconds" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="-1780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jpVaalJFUSlHE47DqnqX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8usbnj4gd5BH2UXzQ24F-4" target="8usbnj4gd5BH2UXzQ24F-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8usbnj4gd5BH2UXzQ24F-4" value="Delay for .2 seconds" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="-1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jpVaalJFUSlHE47DqnqX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8usbnj4gd5BH2UXzQ24F-6" target="8usbnj4gd5BH2UXzQ24F-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="-1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8usbnj4gd5BH2UXzQ24F-6" value="roll 90 degrees at 170 speed for 1.5 seconds" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="-1530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jpVaalJFUSlHE47DqnqX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8usbnj4gd5BH2UXzQ24F-15" target="jpVaalJFUSlHE47DqnqX-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8usbnj4gd5BH2UXzQ24F-15" value="Stop" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="-1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jpVaalJFUSlHE47DqnqX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jpVaalJFUSlHE47DqnqX-2" target="jpVaalJFUSlHE47DqnqX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jpVaalJFUSlHE47DqnqX-2" value="Stop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-2020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jpVaalJFUSlHE47DqnqX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jpVaalJFUSlHE47DqnqX-4" target="jpVaalJFUSlHE47DqnqX-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jpVaalJFUSlHE47DqnqX-4" value="roll 90 degrees at 42 speed for 2.4 seconds" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-1940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jpVaalJFUSlHE47DqnqX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jpVaalJFUSlHE47DqnqX-6" target="8usbnj4gd5BH2UXzQ24F-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jpVaalJFUSlHE47DqnqX-6" value="Stop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-1690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jpVaalJFUSlHE47DqnqX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jpVaalJFUSlHE47DqnqX-7" target="8usbnj4gd5BH2UXzQ24F-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jpVaalJFUSlHE47DqnqX-7" value="Stop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-1860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jpVaalJFUSlHE47DqnqX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="8usbnj4gd5BH2UXzQ24F-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130.0588235294117" y="-1390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jpVaalJFUSlHE47DqnqX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jpVaalJFUSlHE47DqnqX-15" target="jpVaalJFUSlHE47DqnqX-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jpVaalJFUSlHE47DqnqX-15" value="Delay for 1 second" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jpVaalJFUSlHE47DqnqX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jpVaalJFUSlHE47DqnqX-17" target="jpVaalJFUSlHE47DqnqX-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jpVaalJFUSlHE47DqnqX-17" value="roll 225 degrees at 89 speed for 7 seconds" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jpVaalJFUSlHE47DqnqX-21" value="end program" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="530" y="-1367.5" width="120" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
